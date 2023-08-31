@@ -1,0 +1,3 @@
+Calculate the Customer Life Time Value (CLTV) Using 2 Different methods
+1. RFM Method
+2. Predictive Modelling
